@@ -60,9 +60,6 @@ brew 'tmux'
 brew 'wget'
 cask 'mendeley'
 brew 'ipmitool'
-<<<<<<< HEAD
 cask 'kindle'
-=======
 brew 'corkscrew'
->>>>>>> b328744736b98d3c50eae26f03f353cdecb78886
 
