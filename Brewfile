@@ -60,3 +60,5 @@ brew 'tmux'
 brew 'wget'
 cask 'mendeley'
 brew 'ipmitool'
+cask 'kindle'
+
