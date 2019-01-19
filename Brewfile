@@ -61,4 +61,6 @@ brew 'wget'
 cask 'mendeley'
 brew 'ipmitool'
 brew 'corkscrew'
+cask 'cyberduck'
+brew 'git-flow-avh'
 
