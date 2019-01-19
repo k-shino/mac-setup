@@ -63,4 +63,4 @@ brew 'ipmitool'
 cask 'kindle'
 brew 'corkscrew'
 brew 'mackerelio/mackerel-agent/mackerel-agent'
-
+cask 'spotify'
