@@ -62,11 +62,7 @@ cask 'mendeley'
 brew 'ipmitool'
 cask 'kindle'
 brew 'corkscrew'
-<<<<<<< HEAD
 brew 'mackerelio/mackerel-agent/mackerel-agent'
 cask 'spotify'
-=======
 cask 'cyberduck'
 brew 'git-flow-avh'
-
->>>>>>> 28ee5f51c27b29ca3e3b088baf5b9ed3d6f62149
