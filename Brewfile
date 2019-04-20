@@ -2,7 +2,6 @@ cask_args appdir: "/Applications"
 tap "caskroom/cask"
 tap "homebrew/bundle"
 tap "homebrew/core"
-
 cask "google-chrome"
 cask "slack"
 cask "github"
@@ -64,4 +63,5 @@ cask 'kindle'
 brew 'corkscrew'
 cask 'cyberduck'
 brew 'git-flow-avh'
-
+brew 'gnu-sed'
+brew 'cloc'
