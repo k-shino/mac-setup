@@ -4,3 +4,6 @@
 [submodule "alfred"]
 	path = alfred
 	url = https://github.com/dracula/alfred.git
+[submodule "visual-studio-code"]
+	path = visual-studio-code
+	url = https://github.com/dracula/visual-studio-code.git

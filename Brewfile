@@ -7,6 +7,7 @@ cask "Alfred"
 cask "slack"
 cask "github"
 brew "git"
+brew "z"
 brew "vim"
 cask "iterm2"
 brew 'go'
