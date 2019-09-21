@@ -1,0 +1,36 @@
+cask_args appdir: "/Applications"
+tap "caskroom/cask"
+tap "homebrew/bundle"
+tap "homebrew/core"
+brew 'gcc'
+brew "git"
+brew "z"
+brew "vim"
+brew 'go'
+brew 'redis'
+brew 'imagemagick'
+brew 'iperf3'
+brew 'jq'
+brew 'iproute2mac'
+brew 'lua'
+# brew 'python'
+brew 'qemu'
+brew 'qt'
+brew 'tmux'
+brew 'wget'
+brew 'corkscrew'
+brew 'git-flow-avh'
+brew 'gnu-sed'
+brew 'cloc'
+brew 'autoconf'
+brew 'automake'
+brew 'libtool'
+#brew 'awscli'
+#brew 'python3'
+brew 'pipenv'
+brew 'bash-completion'
+#brew 'eksctl'
+#brew 'graphviz'
+brew 'fish'
+brew 'peco'
+brew 'hub'
