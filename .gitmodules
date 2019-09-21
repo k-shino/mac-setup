@@ -19,3 +19,6 @@
 [submodule "mattermost"]
 	path = mattermost
 	url = https://github.com/dracula/mattermost.git
+[submodule "windows-terminal"]
+	path = windows-terminal
+	url = https://github.com/dracula/windows-terminal.git
