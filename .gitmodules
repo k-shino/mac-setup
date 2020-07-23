@@ -7,3 +7,18 @@
 [submodule "visual-studio-code"]
 	path = visual-studio-code
 	url = https://github.com/dracula/visual-studio-code.git
+[submodule "mindnode"]
+	path = mindnode
+	url = https://github.com/dracula/mindnode.git
+[submodule "macdown"]
+	path = macdown
+	url = https://github.com/dracula/macdown.git
+[submodule "quiver"]
+	path = quiver
+	url = https://github.com/dracula/quiver.git
+[submodule "mattermost"]
+	path = mattermost
+	url = https://github.com/dracula/mattermost.git
+[submodule "windows-terminal"]
+	path = windows-terminal
+	url = https://github.com/dracula/windows-terminal.git
